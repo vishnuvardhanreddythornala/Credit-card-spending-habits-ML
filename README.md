@@ -71,3 +71,24 @@ Additional engineered features for upgrade prediction:
 ├── encoders.pkl # Encoders for transaction classification 
 ├── upgrade_encoders.pkl # Encoders for upgrade classification 
 ├── requirements.txt # Required Python packages
+
+
+---
+
+## 🚀 Setup Instructions
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/vishnuvardhanreddythornala/Credit-card-spending-habits-ML.git
+cd Credit-card-spending-habits-ML
+
+## 🧪 Future Work
+Address class imbalance with SMOTE or cost-sensitive learning
+
+Add more features (income, transaction time, merchant type)
+
+Try advanced models (XGBoost, LightGBM, neural networks)
+
+Deploy to Streamlit Cloud / Hugging Face Spaces
+
+Enhance interpretability using SHAP or LIME
